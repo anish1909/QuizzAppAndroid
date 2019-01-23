@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568551585147",
+    "firebase_url": "https://fir-e3803.firebaseio.com",
+    "project_id": "fir-e3803",
+    "storage_bucket": "fir-e3803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568551585147:android:72d3da7f59919339",
+        "android_client_info": {
+          "package_name": "com.example.user.quizzecko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568551585147-mivb1iuh244mekurot2i46npgfasgdd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.quizzecko",
+            "certificate_hash": "c5808e08483d95de3fb4349ae3f4586f32fbaebd"
+          }
+        },
+        {
+          "client_id": "568551585147-j7475635mkl4me2fe4f2uujp84c9ogph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DFLo5sq0s9wh3VNYHQKxozuaq8XQA78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568551585147-j7475635mkl4me2fe4f2uujp84c9ogph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
